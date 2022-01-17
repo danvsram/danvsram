@@ -29,19 +29,6 @@ I'm Daniel Ramos
     <img src="https://img.shields.io/badge/-LinkedIn-FA8072?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
-    href="" 
-    alt="Medium"
-    target="blank"
-  
-  </a>
-  <a
-    href="" 
-    alt="GMAIL"
-    target="blank"
-  >
-  
-  </a>
-  <a
     href="https://api.whatsapp.com/send?phone=5531995199018&text=Ol%C3%A1.%20Se%20quiser%20entrar%20em%20contato%20comigo%2C%20s%C3%B3%20deixar%20uma%20mensagem!" 
     alt="WhatsApp"
     target="blank"
